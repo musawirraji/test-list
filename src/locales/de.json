@@ -1,0 +1,34 @@
+{
+  "main": {
+    "header": {
+      "links": {
+        "home": "Startseite",
+        "posts": "Beiträge",
+        "users": "Benutzer",
+        "comments": "Kommentare"
+      },
+      "language_switcher": {
+        "change_language": "Sprache ändern",
+        "en": "Englisch",
+        "de": "Deutsch"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "popularPosts": "Die beliebtesten Beiträge",
+      "toPosts": "Zu den Beiträgen"
+    },
+    "posts": {
+      "readMore": "Mehr lesen",
+      "otherPosts": "Weitere Beiträge dieses Nutzers:",
+      "noPostWithId": " Ein Beitrag mit dieser ID existiert nicht."
+    },
+    "users": {
+      "viewPosts": "Beiträge anzeigen",
+      "userNotFound": "Benutzer nicht gefunden",
+      "noPosts": "Dieser Benutzer hat noch keine Beiträge"
+    }
+  }
+
+}

@@ -1,0 +1,34 @@
+{
+  "main": {
+    "header": {
+      "links": {
+        "home": "Home",
+        "posts": "Posts",
+        "users": "Users",
+        "comments": "Comments"
+      },
+      "language_switcher": {
+        "change_language": "Change language",
+        "en": "English",
+        "de": "German"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "popularPosts": "Most popular posts",
+      "toPosts": "To posts"
+    },
+    "posts": {
+      "readMore": "Read more",
+      "otherPosts": "Other posts by this user:",
+      "noPostWithId": "Post with this ID does not exist."
+    },
+    "users": {
+      "viewPosts": "View posts",
+      "userNotFound": "User not found",
+      "noPosts": "This user doesn't have any posts yet"
+    }
+  }
+
+}
